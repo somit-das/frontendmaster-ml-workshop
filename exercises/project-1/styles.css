@@ -44,3 +44,7 @@ button {
   display: block;
   width: 50%;
 }
+/* video{
+   -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+} */
